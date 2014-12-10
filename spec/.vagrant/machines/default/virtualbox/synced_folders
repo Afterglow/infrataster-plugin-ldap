@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/paul/work/infrataster-plugin-ldap/spec","disabled":false},"v-csc-1":{"id":"v-csc-1","guestpath":"/tmp/vagrant-chef-3/chef-solo-1/cookbooks","hostpath":"/Users/paul/work/infrataster-plugin-ldap/spec/cookbooks","disabled":false}}}
